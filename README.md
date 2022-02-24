@@ -11,6 +11,7 @@
 
 Instituion | Topic | Avisor | Period
 --- | --- | --- | ---
+King Abdullah University of Science and Technology (KAUST) | TBD | [Wolfgang Heidrich](https://vccimaging.org/People/heidriw/) | May 2022 (coming soon!)
 Arizona State University, Tempe | Improving the resolution and quality of computed tomography (CT) with implicit neural networks | [Suren Jayasuriya](https://web.asu.edu/imaging-lyceum/team) | Aug 2021 - Present
 King Abdullah University of Science and Technology (KAUST) | Expirementing with implicit neural networks, Fourier features mapping, and a brief work on Computed Tomography | [Peter Wonka](http://peterwonka.net) | Jun 2021 - Aug 2021
 
