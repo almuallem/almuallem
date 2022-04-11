@@ -19,7 +19,7 @@ King Abdullah University of Science and Technology (KAUST) | Expirementing with 
 #### 🧑‍🏫 Notable Classes and Courses
 **Classes** 
 > -  *EEE598*: Physics-based Computer Vision
-> - *CSE499*: Independent instruction (Independent Research)
+> - *CSE499*: Independent instruction (Independent Research in Computed Tomography Reconstruction Using Implicit Neural Representations)
 
 **Courses**
 > -  Neural Networks and Deep Learning, [DeepLearning.ai](https://deeplearning.ai)
