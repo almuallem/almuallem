@@ -11,15 +11,16 @@
 
 Instituion | Topic | Avisor | Period | Poster or publication
 --- | --- | --- | --- | ---
-King Abdullah University of Science and Technology (KAUST) | TBD | [Wolfgang Heidrich](https://vccimaging.org/People/heidriw/) | May 2022 (coming soon!) |
+King Abdullah University of Science and Technology (KAUST) | I'll be working on INR (Implicit Neural Network)  for inverse imaging problems | [Wolfgang Heidrich](https://vccimaging.org/People/heidriw/) | May 2022 (coming soon!) |
 Arizona State University, Tempe | Improving the resolution and quality of computed tomography (CT) with implicit neural networks | [Suren Jayasuriya](https://web.asu.edu/imaging-lyceum/team) | Aug 2021 - Present | [Poster](https://drive.google.com/file/d/18mRxFZMkNvzzktYis3feP6u2KRaNYd2b/view?usp=sharing)
 King Abdullah University of Science and Technology (KAUST) | Expirementing with implicit neural networks, Fourier features mapping, and a brief work on Computed Tomography | [Peter Wonka](http://peterwonka.net) | Jun 2021 - Aug 2021 |
 
 
 #### 🧑‍🏫 Notable Classes and Courses
 **Classes** 
-> -  *EEE598*: Physics-based Computer Vision
+> -  *EEE598*: Physics-based Computer Vision (grad-level)
 > - *CSE499*: Independent instruction (Independent Research in Computed Tomography Reconstruction Using Implicit Neural Representations)
+> - *EEE598*: Remote Sensing and Synthetic Aperture Imaging (grad-level)
 
 **Courses**
 > -  Neural Networks and Deep Learning, [DeepLearning.ai](https://deeplearning.ai)
