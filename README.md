@@ -23,7 +23,7 @@ King Abdullah University of Science and Technology (KAUST) | Expirementing with 
 > - *CSE499*: Independent instruction (Independent Research in Computed Tomography Reconstruction Using Implicit Neural Representations)
 
 **Courses**
-> -  *In Progress* First Principles of Computer Vision - Specialization, [Columbia University](https://www.coursera.org/specializations/firstprinciplesofcomputervision)
+> -  First Principles of Computer Vision - Specialization, [Columbia University](https://www.coursera.org/specializations/firstprinciplesofcomputervision) *In Progress*
 > -  Neural Networks and Deep Learning, [DeepLearning.ai](https://deeplearning.ai)
 > - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization, [DeepLearning.ai](https://deeplearning.ai)
 > - Artificial Intelligence with Python Nanodegree, [Udacity](https://udacity.com)
