@@ -11,7 +11,7 @@
 
 Instituion | Topic | Avisor | Period | Poster or publication
 --- | --- | --- | --- | ---
-King Abdullah University of Science and Technology (KAUST) | I'll be working on INRs (Implicit Neural Network)  for neural rendering tasks. More specific details to be shared when it's available to public. | [Wolfgang Heidrich](https://vccimaging.org/People/heidriw/) | May 2022 (coming soon!) |
+King Abdullah University of Science and Technology (KAUST) | Implicit neural rendering for inverse problems in imaging | [Wolfgang Heidrich](https://vccimaging.org/People/heidriw/) | May 2022 - August 2022 |
 Arizona State University, Tempe | Improving the resolution and quality of computed tomography (CT) with implicit neural networks | [Suren Jayasuriya](https://web.asu.edu/imaging-lyceum/team) | Aug 2021 - Present | [Poster](https://furi.engineering.asu.edu/participant/almuallem-ali/)
 King Abdullah University of Science and Technology (KAUST) | Expirementing with implicit neural networks, Fourier features mapping, and a brief work on Computed Tomography | [Peter Wonka](http://peterwonka.net) | Jun 2021 - Aug 2021 |
 
