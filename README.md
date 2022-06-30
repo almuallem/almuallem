@@ -4,7 +4,7 @@
 
 #### 🤖 Fields of Interests
 
-- Machine Learning, Computer Vision, and Computational Photography
+- Computer Vision, and Computational Imaging.
 
 
 #### 🕵🏽‍♂️ Research Experiences
